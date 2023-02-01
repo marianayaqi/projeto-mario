@@ -12,7 +12,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="./src/css/reset.css">
+
     <link rel="stylesheet" href="./src/css/estilos.css">
+
+    <link rel="stylesheet" href="./src/css/responsivo.css">
 
     <title>Super Mario Bros - O Filme</title>
 </head>
@@ -30,18 +33,25 @@
         </a>
         <nav>
             <ul class="menu">
-                <li><a href="">Home</a></li>
-                <li><a href="">Detalhes</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Detalhes</a></li>
             </ul>
         </nav>
     </header>
     <main class="container">
-        <div>
+        <div class="informacoes">
             <img class="imagem-titulo" src="./src/imagens/titulo.png" alt="imagem do título do filme">
             <p class="descricao">Mario é um encanador junto com seu irmão Luigi. <br> Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares</p>
             <button class="botao-trailer">Veja o trailer</button>
         </div>
-        <img class="imagem-mario" src="./src/imagens/super-mario-chars.png">
+        <img class="mario" src="./src/imagens/super-mario-chars.png">
+
+        <div class="modal">
+            <div class="conteudo-modal">
+                <span class="fechar-modal">X</span>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Cb4WV4aXBpk" title="Trailer oficial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
     </main>
 </body>
 </html>
