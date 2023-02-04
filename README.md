@@ -53,7 +53,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <li> JavaScript
 <li> Git and GitHub
 <br>
-🚀[Participe da comunidade DEV EM DOBRO no DISCORD!](https://discord.gg/73Fk62aM)
+🚀[Participe da comunidade DEV EM DOBRO no DISCORD!] <a target="blank" href="https://discord.gg/73Fk62aM">
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
