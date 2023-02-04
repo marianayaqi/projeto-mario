@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://mariantune.github.io/projeto-mario/"><img width="70px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario"></a>
+# <div align="center"><a href="https://mariantune.github.io/projeto-mario/"><img width="70px" src="./src/imagens/yoshi.png" alt="projeto-site-mario"></a>
 </div>
 
 
