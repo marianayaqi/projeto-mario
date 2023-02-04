@@ -55,7 +55,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 🎮<a target="_blank" href="https://discord.gg/73Fk62aM">Participe da comunidade DEV EM DOBRO no DISCORD!</a
 
-    
+<br>    
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
   <br>
   <br>
