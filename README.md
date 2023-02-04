@@ -43,6 +43,15 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO com a dupla dinâm
 </a>
 
 <br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+<li> HTML
+<li> CSS
+<li> JavaScript
+<li> Git and GitHub
 <br>
 🚀[Participe da comunidade DEV EM DOBRO no DISCORD!](https://discord.gg/73Fk62aM)
 
