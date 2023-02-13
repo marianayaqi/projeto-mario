@@ -26,7 +26,7 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO com a dupla dinâm
     <h4> Background Original Projeto Dev em Dobro
     <br>
     <br>
-      <a target="_blank" href="https://mariantune.github.io/projeto-mario/">
+      <a target="_blank" href="https://marianayaqi.github.io/projeto-mario/">
       <img src="./src/imagens/1.png" alt="Site Projeto Mario">
       </a>
     <br>
