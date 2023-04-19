@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://mariantune.github.io/projeto-mario/"><img width="70px" src="./src/imagens/yoshi.png" alt="projeto-site-mario"></a>
+# <div align="center"><a href="https://marianayaqi.github.io/projeto-mario/"><img width="70px" src="./src/imagens/yoshi.png" alt="projeto-site-mario"></a>
 </div>
 
 
@@ -26,14 +26,14 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO com a dupla dinâm
     <h4> Background Original Projeto Dev em Dobro
     <br>
     <br>
-      <a target="_blank" href="https://mariantune.github.io/projeto-mario/">
+      <a target="_blank" href="https://marianayaqi.github.io/projeto-mario/">
       <img src="./src/imagens/1.png" alt="Site Projeto Mario">
       </a>
     <br>
     <h4> Background Mobile - Multiple Screen
     <br>
     <br>
-      <a target="_blank" href="https://mariantune.github.io/projeto-mario/">
+      <a target="_blank" href="https://marianayaqi.github.io/projeto-mario/">
       <img src="./src/imagens/2.png" alt="projeto-site-mario">
       </a>
   </div>
